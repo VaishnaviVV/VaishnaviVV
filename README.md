@@ -4,6 +4,6 @@
 
 I'm Vaishnavi😉 I'm a developer who is passionate about exploring Tech!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Developer+and;Python+and+Web+Developer;Passionate+about+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Developer;Python+and+Web+Developer;Passionate+about+Tech)](https://git.io/typing-svg)
 
 
