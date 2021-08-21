@@ -31,7 +31,7 @@ I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviVV&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 <a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VaihnaviVV&theme=material-palenight"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VaishnaviVV&theme=material-palenight"/>
 </a>
 
 ### Github Activity: 🔥 
