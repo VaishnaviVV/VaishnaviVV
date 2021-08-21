@@ -17,7 +17,7 @@ I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
 - 🌱 I’m currently learning <strong>React</strong> and <strong>Data Visualization</strong>
 - 🤔 My research interests are with <strong>Blockchain Systems, Machine Learning</strong>, etc
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
-- 💬 Feel free to discuss with me about <strong>Privacy Engineering, Web Development and Data Science</strong>
+- 💬 Feel free to discuss with me about <strong>Web Development and Data Science</strong>
 
 
 
