@@ -24,3 +24,15 @@ I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaishnaviVV&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=VaishnaviVV&theme=dracula&no-bg=true&row=1"/>
+
+
+### GitHub Highlights: :blossom:
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviVV&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VaihnaviVV&theme=material-palenight"/>
+</a>
+
+### Github Activity: 🔥 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=VaishnaviVV&theme=dracula&color=B994E6&bg_color=2B2D3D" />
