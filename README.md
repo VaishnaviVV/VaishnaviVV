@@ -8,6 +8,8 @@ I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
 <a href="mailto: vaishugiri001@gmail.com">
 <img src="https://img.shields.io/badge/-vaishugiri001%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/vaishnavi-v-v-258176191/"><img src="https://img.shields.io/badge/Vaishnavi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
+
+
 ### Current Status Quo:
 
 - 💼 I’m pursuing a <strong>B Tech Computer Science and Engineering degree</strong>.
