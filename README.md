@@ -13,7 +13,7 @@ I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
 ### Current Status Quo:
 
 - 💼 I’m pursuing a <strong>B Tech Computer Science and Engineering degree</strong>.
-- 🔭 I’m currently working on <strong>Web based</strong> and <strong>Data Analytics projects</strong>
+- 🔭 I’m currently working on <strong>Blockchain, Web based</strong> and <strong>Data Analytics projects</strong>
 - 🌱 I’m currently learning <strong>React</strong> and <strong>Data Visualization</strong>
 - 🤔 My research interests are with <strong>Blockchain Systems, Machine Learning</strong>, etc
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
