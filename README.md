@@ -32,9 +32,10 @@ I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Covid19_sentiment_analysis)](https://github.com/VaishnaviVV/Covid19_sentiment_analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Online-Shopping-system-using-Tkinter-and-SQL)](https://github.com/VaishnaviVV/Online-Shopping-system-using-Tkinter-and-SQL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Instagram-Crawler)](https://github.com/VaishnaviVV/Instagram-Crawler)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Online-Music-System)](https://github.com/VaishnaviVV/Online-Music-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=IPL-Analytics-Prediction-IBMHC2021)](https://github.com/VaishnaviVV/IPL-Analytics-Prediction-IBMHC2021)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=LEDs-Blink-using-Arduino-and-IFTTT)](https://github.com/VaishnaviVV/LEDs-Blink-using-Arduino-and-IFTTT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Basic-Banking-System-Sparks-Intern)](https://github.com/VaishnaviVV/Basic-Banking-System-Sparks-Intern)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Online-Music-System)](https://github.com/VaishnaviVV/Online-Music-System)
 <br><br>
 
 ### Github Activity: 🔥 
