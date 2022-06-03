@@ -29,7 +29,6 @@ I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Peer-to-Peer-ridesharing-using-Blockchain)](https://github.com/VaishnaviVV/Peer-to-Peer-ridesharing-using-Blockchain)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Vit-Meet-Video-conferencing)](https://github.com/VaishnaviVV/Vit-Meet-Video-conferencing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Online-Proctoring-and-Facial-Tracking-)](https://github.com/VaishnaviVV/Online-Proctoring-and-Facial-Tracking-)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Covid19_sentiment_analysis)](https://github.com/VaishnaviVV/Covid19_sentiment_analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=IPL-Analytics-Prediction-IBMHC2021)](https://github.com/VaishnaviVV/IPL-Analytics-Prediction-IBMHC2021)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Online-Shopping-system-using-Tkinter-and-SQL)](https://github.com/VaishnaviVV/Online-Shopping-system-using-Tkinter-and-SQL)
