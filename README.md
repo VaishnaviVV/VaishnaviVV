@@ -2,7 +2,7 @@
 
 I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Developer;Python+and+Web+Developer;Passionate+about+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Developer;Passionate+about+Tech)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: vaishugiri001@gmail.com">
