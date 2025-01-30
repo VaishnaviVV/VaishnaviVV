@@ -12,7 +12,7 @@ I'm Vaishnavi😉 I'm a Software developer who is passionate about exploring new
 
 - 💼 I’m a full-stack developer working at<strong> Walmart Global Tech</strong>.
 - 🔭 I have expertise in <strong>Java, Springboot, Kafka, Microservice architecture</strong> and <strong>ReactJs applications</strong>
-- 🌱 I’m currently learning about<strong>LLMs</strong> and <strong>Deep Learning</strong>
+- 🌱 I’m currently learning about <strong>LLMs</strong> and <strong>Deep Learning</strong>
 - 🤔 My research interests are with <strong>AI/ML</strong>
 - 💬 Feel free to discuss with me about <strong> resources for coding and job search</strong>
 
