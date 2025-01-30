@@ -1,24 +1,22 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Vaishnavi😉 I'm a developer who is passionate about exploring new Tech!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Enthusiastic+Developer;Passionate+about+Tech)](https://git.io/typing-svg)
+I'm Vaishnavi😉 I'm a Software developer who is passionate about exploring new tech!
 
 ### How to reach me: 
-<a href="mailto: vaishugiri001@gmail.com">
-<img src="https://img.shields.io/badge/-vaishugiri001%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/vaishnavi-v-v-258176191/"><img src="https://img.shields.io/badge/Vaishnavi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="mailto: vaishnavi.vv01@gmail.com">
+<img src="https://img.shields.io/badge/-vaishnavi.vv01@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/vaishnavi-v-v/"><img src="https://img.shields.io/badge/Vaishnavi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 
 
 ### Current Status Quo:
 
-- 💼 I’m pursuing a <strong>B Tech Computer Science and Engineering degree</strong>.
-- 🔭 I’m currently working on <strong>Machine Learning</strong> and <strong>Deep Learning projects</strong>
-- 🌱 I’m currently learning <strong>React</strong> and <strong>Deep Learning</strong>
-- 🤔 My research interests are with <strong>Data Science</strong>
-- 💬 Feel free to discuss with me about <strong> resources for Coding and placements</strong>
+- 💼 I’m a full-stack developer working at<strong> Walmart Global Tech</strong>.
+- 🔭 I have expertise in <strong>Java, Springboot, Kafka, Microservice architecture</strong> and <strong>ReactJs applications</strong>
+- 🌱 I’m currently learning about<strong>LLMs</strong> and <strong>Deep Learning</strong>
+- 🤔 My research interests are with <strong>AI/ML</strong>
+- 💬 Feel free to discuss with me about <strong> resources for coding and job search</strong>
 
-<img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
+<img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaishnaviVV&show_icons=true&theme=material-palenight&hide=html,Tcl" />
