@@ -35,6 +35,3 @@ I'm Vaishnavi😉 I'm a Software developer who is passionate about exploring new
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Online-Music-System)](https://github.com/VaishnaviVV/Online-Music-System)
 <br><br>
 
-
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=VaishnaviVV&theme=dracula&color=B994E6&bg_color=2B2D3D" />
