@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Vaishnavi😉 I'm a Software developer who is passionate about exploring new tech!
+I'm Vaishnavi😉 I'm a MS Computer Science student at Columbia University who is passionate about exploring new tech!
 
 ### How to reach me: 
 <a href="mailto: vaishnavi.vv01@gmail.com">
@@ -10,7 +10,7 @@ I'm Vaishnavi😉 I'm a Software developer who is passionate about exploring new
 
 ### Current Status Quo:
 
-- 💼 I’m a full-stack developer working at<strong> Walmart Global Tech</strong>.
+- 💼 I was previously a full-stack developer working at<strong> Walmart Global Tech</strong>.
 - 🔭 I have expertise in <strong>Java, Springboot, Kafka, Microservice architecture</strong> and <strong>ReactJs applications</strong>
 - 🌱 I’m currently learning about <strong>LLMs</strong> and <strong>Deep Learning</strong>
 - 🤔 My research interests are with <strong>AI/ML</strong>
