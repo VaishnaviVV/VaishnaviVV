@@ -24,7 +24,7 @@ I'm Vaishnavi😉 I'm a MS Computer Science student at Columbia University who i
 
 ## A few significant Projects I've worked on:<br><br>
 
-[![ReadMe Card](https://github-readme-stats-lemon-psi-55.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=FixPalAI)](https://github.com/VaishnaviVV/FixPalAI) [![ReadMe Card](https://github-readme-stats-lemon-psi-55.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=RAG-based-MedResearch-AI)](https://github.com/VaishnaviVV/RAG-based-MedResearch-AI)
+[![ReadMe Card](https://github-readme-stats-lemon-psi-55.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=FixPalAI&cache_seconds=0)](https://github.com/VaishnaviVV/FixPalAI) [![ReadMe Card](https://github-readme-stats-lemon-psi-55.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=RAG-based-MedResearch-AI)](https://github.com/VaishnaviVV/RAG-based-MedResearch-AI)
 
 [![ReadMe Card](https://github-readme-stats-lemon-psi-55.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Peer-to-Peer-ridesharing-using-Blockchain)](https://github.com/VaishnaviVV/Peer-to-Peer-ridesharing-using-Blockchain) [![ReadMe Card](https://github-readme-stats-lemon-psi-55.vercel.app/api/pin/?username=VaishnaviVV&theme=material-palenight&repo=Vit-Meet-Video-conferencing)](https://github.com/VaishnaviVV/Vit-Meet-Video-conferencing)
 
